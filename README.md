@@ -9,6 +9,7 @@
 4. [Cartilha do Conselho](documentacao/doc-basica/historia.md)
 5. [Organograma](https://www.figma.com/design/v3vRWEqqiVjqTK1vpbLpRF/Organograma-FullDev?node-id=0-1&t=3BQjgE0P255Qu7s5-1)
 
+[Acesse: FullDev](https://www.fulldev.com.br)
 
 ## Projetos em andamento
 
@@ -20,6 +21,7 @@
 6. [CodeQueens](#6-codequeens) 
 7. [RainbowStack](#7-rainbowstack)
 8. [FullDev Strong](#8-fulldev-strong)
+9. [FullDev MeetUp](documentacao/fullDev-meetup/readme.md)
 
 
 ### 5. Grupos de Conversação
@@ -50,7 +52,7 @@ Baseado em desafios e competições saudáveis, incentiva devs a cuidarem da sa�
 ## Como participar?
 Cada projeto possui sua própria dinâmica, mas todos estão interligados pela **visão da FullDev**: 
 
-[FullDev](https://www.fulldev.com.br)
+[Acesse: FullDev](https://www.fulldev.com.br)
 
 > *Conectar e impulsionar desenvolvedores por meio de um ecossistema digital colaborativo, inclusivo e gratuito.*
 

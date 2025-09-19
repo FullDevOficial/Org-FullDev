@@ -1,5 +1,8 @@
 # Central de Documentação FullDev
 
+Este repositório tem como objetivo **documentar e centralizar e organizaro crescimento da comunidade**, explicando de forma clara cada proposta.  
+
+A ideia é oferecer uma visão geral para novos membros, parceiros e colaboradores, servindo como ponto de referência para quem deseja **entender, participar ou contribuir** em cada iniciativa.
 
 ## Documentação básica
 

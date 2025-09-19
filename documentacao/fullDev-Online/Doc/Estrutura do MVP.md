@@ -23,7 +23,7 @@ O **Indicador de Cursos** será uma das primeiras funcionalidades da FullDev Onl
 - Vinculação obrigatória ao LinkedIn para autenticar identidade.  
 - Cadastro com **CPF único e obrigatório**.  
 
-### Perfil de Marca
+### Pagina de Marca
 - Cadastro iniciado por representante.  
 - **Dados exigidos:** CNPJ, nome da instituição, site oficial, e-mail de contato.  
 - Validação interna da FullDev para evitar duplicidade.  
